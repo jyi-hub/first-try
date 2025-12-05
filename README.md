@@ -1,2 +1,3 @@
 # first-try
-nothing to say
+nothing to say  
+today is a good day.
